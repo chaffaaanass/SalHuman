@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SalHumanApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SalHumanApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SalHumanApplication.class, args);
+    }
 
 }
